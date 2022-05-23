@@ -3,8 +3,12 @@
 **it would look to you more splendid than the moon - Galileo Galilei**
 
 This repository is for documenting the development of a Cybersecurity application that will eventually
-be able to provide tools corresponding to each of the CIS18 Critical Security Controls. To that end, there
-will be several major individual applications:
+be able to provide tools corresponding to each of the CIS18 Critical Security Controls.
+
+The design will follow a microservice architecture. For now, it utilizes direct client to microservice communication 
+instead of the more common API gateway communication method.
+
+There will be several major individual applications:
 
 **Ganymede**
 
