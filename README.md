@@ -38,18 +38,18 @@ These applications will follow a microservice architecture, using REST API's to 
 
  - [X] JSON Encoder/Decoder - Go
 
+ - [X] Axios API Endpoint - JavaScript
+
 # In Progress Features #
  - [ ] User Account Database - PostgreSQL
 
  - [ ] Password vault - Vuejs front end
 
- - [ ] Axios API Endpoint - JavaScript
-
  - [ ] JWT for Websocket Security - Go
 
-**Europa Password Generator Rough Mockup**
+**Europa Password Generator Rough Mockup - Current as of 05/23/22**
 
-![image](https://user-images.githubusercontent.com/82122466/168933757-c1e3ca57-90ce-4234-8fee-36d3936012b0.png)
+![image](https://user-images.githubusercontent.com/82122466/169905414-2e806c49-7359-4cc2-8064-ce49f0528221.png)
 
 # Version 1.0 Desired Features #
 Functions:
