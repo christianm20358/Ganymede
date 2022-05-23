@@ -23,6 +23,10 @@ Titan will be a desktop application providing endpoint protection and data colle
 it will be invisible to end users. Eventually it will go beyond tracking and logging and provide anti-malware and anti-virus capabilities
 as well.
 
+# Architecture #
+
+These applications will follow a microservice architecture, using REST API's to converse with each other.
+
 # Completed Features #
  - [X] Websocket API - Go
 
@@ -31,6 +35,8 @@ as well.
  - [X] JSON Encoder/Decoder - Go
 
 # In Progress Features #
+ - [ ] User Account Database - PostgreSQL
+
  - [ ] Password vault - Vuejs front end
 
  - [ ] Axios API Endpoint - JavaScript
