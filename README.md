@@ -29,7 +29,7 @@ as well.
 
 # Architecture #
 
-These applications will follow a microservice architecture, using REST API's to converse with each other.
+These applications will follow a microservice architecture, using REST API's to converse with each other. User authentication will be completed with SAML for optional SSO for enterprise users.
 
 # Completed Features #
  - [X] Websocket API - Go
@@ -43,9 +43,9 @@ These applications will follow a microservice architecture, using REST API's to 
 # In Progress Features #
  - [ ] User Account Database - PostgreSQL
 
- - [ ] Password vault - Vuejs front end
+ - [ ] SAML Capability - Go
 
- - [ ] JWT for Websocket Security - Go
+ - [ ] Password vault - Vuejs front end
 
 **Europa Password Generator Rough Mockup - Current as of 05/23/22**
 
